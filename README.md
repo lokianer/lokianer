@@ -18,9 +18,9 @@ I'm a self-taught enthusiast always looking to learn and build something new. Wh
 
 ## 💡 What I'm Currently Working On
 
-* **Client Work:** Building and maintaining professional websites for **local companies** and **sport clubs**, focusing on performance and user experience (using tools like HTML, CSS, Django/Flask).
-* **Mobile Development:** Crafting bespoke mobile applications, primarily **games**, for friends and small personal projects using frameworks like **Flutter** and native **Android**.
-* **Game Design:** Always tinkering with side projects to learn new features and techniques in **Unity** and **Unreal Engine**, specializing in rapid prototyping and mechanics design.
+* **Client Work:** Building and maintaining professional websites for **local companies** and **sport clubs**.
+* **Mobile Development:** Crafting bespoke mobile applications, primarily **games**, for friends and small personal projects.
+* **Game Design:** Always tinkering with side projects to learn new features and techniques in **Unity** and **Unreal Engine**.
 * **Workflow Improvement:** Exploring best practices for version control and deployment using **Git** and **Docker** to streamline my development workflow.
 
 ---
@@ -106,11 +106,6 @@ My ever-evolving toolkit for bringing ideas to life! I love exploring new techno
     <td align="center" width="90">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/><br>Java
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/><br>Flask
       </a>
     </td>
   </tr>
