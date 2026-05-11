@@ -1,213 +1,173 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-singh2/Anmol-singh2/master/wave.gif" width="60" alt="Wave GIF"/>
-  <h1>Hi, I'm Lokianer</h1>
-  <h3>A passionate Hobby Developer from Germany 🇩🇪</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Lokianer&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Hobby%20Developer%20·%20Germany&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header banner"/>
+
+<a href="https://github.com/lokianer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile.+Web.+Games.+Backend.;Self-taught+and+endlessly+curious." alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/lokianer?tab=followers">
+  <img src="https://img.shields.io/github/followers/lokianer?label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22&logo=github" alt="GitHub followers"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=lokianer&label=Profile%20Views&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Profile views"/>
+<a href="https://ko-fi.com/lokianer">
+  <img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=161b22" alt="Ko-fi"/>
+</a>
+
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=lokianer&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lokianer" /> 
-</p>
+<br/>
 
----
+## &nbsp;✦&nbsp; Profile
 
-## 🚀 About Me
+I'm a self-taught developer from northern Germany. I like problems where craft meets curiosity, and I move between mobile, web, games, and backend work depending on what I'm trying to learn. I build for local clients, friends, sport clubs, and most often just for the joy of figuring something out.
 
-I'm a self-taught enthusiast always looking to learn and build something new. Whether it's crafting mobile apps, exploring backend frameworks, or diving into game development, I love bringing ideas to life through code! I believe that every project, big or small, is an opportunity to grow my skill set and solve real-world problems.
+<br/>
 
----
+## &nbsp;✦&nbsp; Currently
 
-## 💡 What I'm Currently Working On
-
-* **Client Work:** Building and maintaining professional websites for **local companies** and **sport clubs**.
-* **Mobile Development:** Crafting bespoke mobile applications, primarily **games**, for friends and small personal projects.
-* **Game Design:** Always tinkering with side projects to learn new features and techniques in **Unity** and **Unreal Engine**.
-* **Workflow Improvement:** Exploring best practices for version control and deployment using **Git** and **Docker** to streamline my development workflow.
-
----
-
-## 🌟 My GitHub Languages
-
-Curious about my coding preferences? Here are the languages I use most often:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokianer&layout=compact&langs_count=8&theme=dark" alt="Lokianer's Top Languages" style="margin: 10px;"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-My ever-evolving toolkit for bringing ideas to life! I love exploring new technologies and deepening my expertise in these areas.
-
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="90">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/><br>Flutter
-      </a>
+    <td width="50%" valign="top">
+      <h3>&nbsp;🌐&nbsp; Client Work</h3>
+      <p>Designing and maintaining professional websites for local businesses and sport clubs. Performance first, accessible, built to last.</p>
     </td>
-    <td align="center" width="90">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/><br>Android
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity 3D" width="45" height="45"/><br>Unity 3D
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="45" height="45"/><br>Unreal
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/><br>HTML5
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/><br>CSS3
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/><br>Tailwind
-      </a>
+    <td width="50%" valign="top">
+      <h3>&nbsp;📱&nbsp; Mobile & Games</h3>
+      <p>Building bespoke mobile apps, mostly games, for friends and small personal experiments. This is where ideas get to be playful.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/><br>React
-      </a>
+    <td width="50%" valign="top">
+      <h3>&nbsp;🎮&nbsp; Game Design</h3>
+      <p>Tinkering with side projects in Unity and Unreal Engine, exploring new features, techniques, and rendering pipelines.</p>
     </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/><br>JavaScript
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/><br>TypeScript
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/><br>Node.js
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/><br>Express
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/><br>Java
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/><br>Django
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/><br>Spring
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/><br>MongoDB
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/><br>MySQL
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="45" height="45"/><br>MS SQL
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/><br>Firebase
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/><br>Git
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/><br>Docker
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/><br>GraphQL
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/><br>Postman
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/><br>Bash
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="45" height="45"/><br>Matlab
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="45" height="45"/><br>Electron
-      </a>
+    <td width="50%" valign="top">
+      <h3>&nbsp;⚙️&nbsp; Workflow & DevOps</h3>
+      <p>Refining how I use Git and Docker so builds stay reproducible, deployments stay boring, and collaboration stays painless.</p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🤝 Connect with Me
+## &nbsp;✦&nbsp; Toolkit
+
+<details open>
+<summary><b>&nbsp;Languages</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Mobile & Game Development</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Backend & Frameworks</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Data & Storage</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Tooling & DevOps</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+</details>
+
+<br/>
+
+
+## &nbsp;✦&nbsp; Elsewhere
 
 <p align="center">
-  <a href="https://twitter.com/lokianer_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokianer_" height="40" width="50" style="margin: 0 5px;"/>
+    <a href="https://www.threads.com/@marcel_mehr_?">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  <a href="https://instagram.com/marcel_mehr_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcel_mehr_" height="40" width="50" style="margin: 0 5px;"/>
+  <a href="https://instagram.com/marcel_mehr_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/c/lokianer" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokianer" height="40" width="50" style="margin: 0 5px;"/>
+  <a href="https://www.youtube.com/c/lokianer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://ko-fi.com/lokianer">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🙏 Support My Journey
+## &nbsp;✦&nbsp; Support My Journey
 
-If you enjoy my work and my contributions to the community, consider buying me a coffee! It helps fuel the late-night coding sessions.
+<p align="center">
+  If something here sparked an idea or saved you an afternoon, a coffee keeps the late nights productive and the side projects shipping.
+</p>
 
-<p>
+<p align="center">
   <a href="https://ko-fi.com/lokianer" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lokianer - Buy Me A Coffee" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="46" alt="Buy Me a Coffee at ko-fi.com"/>
   </a>
 </p>
 
-<p align="right">
-  <small>Last Updated: November 2025</small>
-</p>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer"/>
+
+<sub><i>Last updated · May 2026</i></sub>
+
+</div>
